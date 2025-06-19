@@ -1,3 +1,9 @@
+---
+layout: page
+title: Teaching
+permalink: /teach/
+---
+
 <details>
   <summary>Click to expand…</summary>
 
