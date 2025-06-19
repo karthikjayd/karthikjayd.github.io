@@ -31,7 +31,7 @@ At Freiburg, I have been able to delve deeper into modern physics topics, partic
 5. Experimental Astrophysics
 6. Classical Complex Systems
 7. Advanced Laboratory Course in Physics
-8. Term Paper: **Auf welche Wahrheiten können wir bauen? Physik und Theologie im Gespräch** (On which truths can we build? Physics and Theology in conversation) - This paper explored the intersection of physics and theology, discussing the topic of **Scientism** and critiques of it. I gave some anecdotal insights into a case stugy regarding the significance of Scientific Temper in the current Indian political landscape.
+8. Term Paper: **Auf welche Wahrheiten können wir bauen? Physik und Theologie im Gespräch** (On which truths can we build? Physics and Theology in conversation) - This paper explored the intersection of physics and theology, discussing the topic of **Scientism** and critiques of it. I gave some anecdotal insights into a case study regarding the significance of Scientific Temper in the current Indian political landscape.
 
 # Interests {#interests}
 
@@ -45,6 +45,6 @@ At Freiburg, I have been able to delve deeper into modern physics topics, partic
 
 5. 🇩🇪 I am currently learning the German language. I have completed language courses up to B1 level and am now working towards B2. The process of learning a new language has been both challenging and rewarding, and I enjoy the opportunity to immerse myself in a new culture through language. It goes without saying that I use [Anki](https://apps.ankiweb.net/) to learn German vocabulary and grammar, which has been a great help in retaining what I learn. I am always on the lookout for people to practice speaking with, so if you are a native German speaker or fluent in the language, feel free to reach out!
 
-42. (Not a typo!) Being a huge fan of **science fiction** and **fantasy** genres, I get lost in the world of comic books and science fiction. Harry Potter, Star Wars, [Bone](https://en.wikipedia.org/wiki/Bone_(comics)) and [Saga](https://en.wikipedia.org/wiki/Saga_(comics)) are some of my favorite franchises. 
+42. Being a huge fan of **science fiction** and **fantasy** genres, I get lost in the world of comic books and science fiction. Harry Potter, Star Wars, [Bone](https://en.wikipedia.org/wiki/Bone_(comics)) and [Saga](https://en.wikipedia.org/wiki/Saga_(comics)) are some of my favorite franchises. 
 
 If you read this far, I hope you found something interesting! Feel free to reach out to me via [email](mailto:hi@karthikjayd.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/karthikjayd/).
