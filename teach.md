@@ -4,12 +4,11 @@ title: Teaching
 permalink: /teach/
 ---
 Below is an overview of my roles in content creation, tutoring, teaching, and coordination.
-
 ---
 
 ## May 2021 – July 2022
 ### Scooper Pair, YouTube
-Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala State Eligibility Test (SET) Physics problems are discussed.
+Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala State Eligibility Test (SET) Physics problems are discussed. See [Swatantra](#swatantra) 
 
 Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over 2,000 subscribers, with 65 videos. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. The content was designed to be accessible and helpful for students preparing for the exam, with a focus on clarity and understanding of complex concepts.
 
