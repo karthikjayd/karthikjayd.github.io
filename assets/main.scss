@@ -1,12 +1,13 @@
 ---
+# Anything (even an empty YAML block) signals “process me” to Jekyll
 ---
 
+/* 1) Import your Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+/* 2) Override Minima’s Sass variables */
+$body-font-family: 'Raleway', sans-serif;
+$heading-font-family: 'Raleway', sans-serif;
+
+/* 3) Finally, import Minima itself */
 @import "minima";
-
-// 1) Load your Google font
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-
-// 2) Override the CSS variable minima uses for the body font
-:root {
-    --font-serif: 'Raleway', sans-serif;
-}
