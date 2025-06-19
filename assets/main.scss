@@ -1,0 +1,12 @@
+---
+---
+
+@import "minima";
+
+// 1) Load your Google font
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+// 2) Override the CSS variable minima uses for the body font
+:root {
+    --font-serif: 'Open Sans', sans-serif;
+}
