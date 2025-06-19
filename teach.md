@@ -1,5 +1,109 @@
 ---
 layout: page
-title: Teaching
+title: Teaching and Organizational Experience
 permalink: /teach/
 ---
+Below is an overview of my roles in content creation, tutoring, teaching, and coordination.
+
+---
+
+## May 2021 – July 2022
+### Scooper Pair, YouTube
+Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala State Eligibility Test (SET) Physics problems are discussed.
+
+Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over 2,000 subscribers, with 65 videos. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. The content was designed to be accessible and helpful for students preparing for the exam, with a focus on clarity and understanding of complex concepts.
+
+I managed the channel, including organizing content, coordinating with other educators, and creating educational videos. I handled all the post-production work, including video editing (using [Kdenlive](https://kdenlive.org/)), thumbnail design (using [Inkscape](https://inkscape.org/)), and channel management.
+[Visit Channel](http://www.youtube.com/c/ScooperPair)
+
+---
+
+## October 2020 – October 2022
+### Subject Expert, Chegg India
+Worked as a part-time subject expert in Physics on the online platform [Chegg](https://www.chegg.com). Developed and published pedagogically sound solutions for over 100 physics problems in the upper grades, complemented with detailed explanations and diagrams created using [Inkscape](https://inkscape.org/). This role involved creating high-quality educational content that adhered to Chegg's standards for clarity and accuracy, helping students understand complex physics concepts.
+[Chegg Homepage](https://www.chegg.com)
+
+---
+
+## July 2020
+### Higher Secondary Teacher (Intern), MNKM HSS
+Completed a three-week teaching internship (online) as part of the M.Sc.Ed. program at MNK Higher Secondary School, Palakkad, Kerala.
+I conducted online physics classes for class XII students on the topic "Magnetic Effect of Electric Current", covering the basics of electromagnetism, including Ampere's law, Biot-Savart law, and applications of electromagnets. The internship posed several challenges due to the online format limited due to the COVID-19 pandemic, but it provided valuable experience in adapting teaching methods to an online environment. I also developed assessment materials to evaluate student understanding and progress.
+
+*An additional activity that I volunteered for during this internship was the design of the internship record document for the M.Sc.Ed. program, which involved creating a structured format for documenting the internship experience, including lesson plans, teaching reflections, and student assessments. This document was later used by other interns in the program, and is still being used at Regional Institute of Education Mysore.*
+
+[My Internship Record](https://drive.proton.me/urls/0V7XZ7TSJM#fx4fxXWoKAhF) -- See pages 59-72 to see the assessment materials I developed.
+<!-- [Certificate]() -->
+
+---
+
+## July 2018 – August 2018
+### Teacher (Intern), JNV Bangalore
+Completion of a 40-day internship as a teacher (secondary school science and mathematics). Developed and implemented 20 lessons each in Science and Mathematics, covering the basics of Algebra and Geometry (mathematics), along with the chapters on Motion, Time and Electricity (Science). In addition, I organized extracurricular activities, including a sky observation session, which provided students with hands-on experience in observing celestial objects and understanding their motion. The internship concluded with an assessment of student learning through a test, which helped evaluate the effectiveness of the teaching methods used during the internship.
+<!-- [Certificate](<link-to-certificate>) -->
+
+---
+
+## July 2019 – March 2020
+### Part-time Faculty, Feathers Study Center
+Worked as a part time Physics teacher for class XI and XII students at Feathers Study Center Mysore. In this role, I taught Kinematics, Fundamentals of Fluid Dynamics and Nuclear Physics to students preparing for the JEE and NEET exams. Due to the smaller class size, I was able to provide personalized attention to each student, helping them grasp complex concepts and improve their problem-solving skills. The role also gave me the opportunity to develop evaluation materials and conduct assessments to gauge student understanding and progress. Additionally, I also got the ooportunity to teach in affiliated schools, where I taught Physics to students in classes XI and XII, further enhancing my teaching skills and experience in a professional educational setting.
+<!-- [Certificate](<link-to-certificate>) -->
+
+---
+
+## 2018 – 2019
+### Part-time Teacher, BASE Educational Services
+Worked as a part-time math teacher in the Science and Technology Foundation (Classes VIII to X) at BASE Educational Services.
+This role involved teaching mathematics to students in the Foundations in Science and Technology (FSnT) program, which is designed to provide a strong foundation in critical thinking and problem-solving skills through a hands-on, inquiry-based approach. In this role, I tried multiple innovative teaching methods, including interactive problem-solving sessions, group discussions and ICT-based instruction using GeoGebra, which proved to be highly effective in engaging students and enhancing their understanding of mathematical concepts.
+<!-- [Certificate](<link-to-certificate>) -->
+
+---
+
+## 2018
+### Online Educator, Unacademy
+Published an online course on _“Work & Energy”_ (Physics) for secondary school students. This course served as a first introduction to the concepts of work and energy, following an intuitive approach to understanding these fundamental physics concepts. The syllabus was aligned with the NCERT curriculum for Class VIII, and the course was designed to be accessible to absolute beginners to these concepts.
+[Course Page](https://unacademy.com/course/cbse-class-11-work-and-energy/PL92KWO2)
+
+---
+
+## 2017–2018
+### President, Hi-Φ Science Club
+Co-ordinated the Science Club activities at Regional Institute of Education Mysore during the academic year 2017–18.
+Organized various tutorials and workshops on topics such as _“Introduction to GeoGebra”_, _"Powerful usage of the scientific calculator"_ and collaborated events with the SWAT Club and Astronomy Clubs of the institute.
+[Club Posters](https://drive.proton.me/urls/QDH5CQW3EW#uBo98tGfOwd5)
+
+---
+
+## December 2017
+### Participant, Khan Academy India Talent Search 2017
+Published a video on _Visualizing Conic Sections_ as part of participation in the Khan Academy India Talent Search 2017. The short video tutorial gives a visual introduction to conic sections, including circles, ellipses, parabolas, and hyperbolas, using GeoGebra. 
+[Video](https://youtu.be/ne8LIHYkhd4)
+
+---
+
+## May 2017
+### Master Resource Person, E-training Camp
+Participated in the E-teaching training camp for Arts & Science teachers at Taralabalu Computer Center, Sirigere, India, as a Master Resource Person. Delivered tutorial sessions on GeoGebra and Inkscape to school teachers. 
+<!-- [Certificate](<link-to-certificate>) -->
+
+---
+
+## February 15-19, 2017
+### Chief Co-ordinator, Swatantra
+Co-ordinated the first inter-college technological convention _“Swatantra”_ at RIEM, a five-day techno-cultural event. Starting with a small team of 10 members, the event grew to include over 200 participants across different events, including workshops, competitions, and exhibitions. The event aimed to promote technological innovation and creativity among student-teachers and was a significant success, fostering a spirit of collaboration and learning within the educational community.
+
+Starting from the conception of the idea, I (along with the other co-ordinator, Navya Jose) facilitated all aspects of the event, including planning, organizing the committee-heads, and managing the logistics. I led the promotion of the event through social media and other channels, which helped to attract a diverse group of participants. This event marked the first time RIEM hosted a techno-cultural convention, and also an event that was fully organized by the student body, setting a precedent for future events at the institute. I also played a key role in raising funds for the event through sponsorships and donations, expanding the budget to over ₹1,00,000 (approximately €1,000) to support the various activities and initiatives during the event.
+
+Prior to the event, our team organized a series of innovative promotional campaigns to generate interest and excitement among the student community. These campaigns included a flash mob, a DubSmash video competition (Dubsmash was one of the predessors of present-day TikTok), a tree-planting campaign and a selfie contest. Additionally, during the event we organized game stalls where participants could engage in fun activities and win prizes, further enhancing the overall experience of the event. The event concluded with a TED-style talk competition *"Speak Your Mind"*, an inter-college event that provided a platform for students to express their ideas and opinions on various topics. 
+
+This event was a significant milestone in my organizational experience, showcasing my ability to lead and manage large-scale events effectively.
+
+[Event Report](https://drive.proton.me/urls/X6JYEBRCDW#GHNRQvdqf27d)
+
+---
+
+## 2015–2016 & 2016–2017
+### President, SWAT Club, RIEM
+Co-ordinated ICT Club activities at Regional Institute of Education Mysore, including planning and running an ICT convention. See the section on Swatantra for more details on the convention.
+[Facebook Page](https://www.facebook.com/swatriemblog)
+[Blog](https://swatclubriem.blogspot.com/)
