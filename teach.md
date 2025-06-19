@@ -6,6 +6,10 @@ permalink: /teach/
 Below is an overview of my roles in content creation, tutoring, teaching, and coordination.
 ---
 
+## May 2025 – Present
+### IT Support (part-time), Bernstein Center Freiburg
+I work as a part-time IT support staff at the [Bernstein Center Freiburg](https://bcf.uni-freiburg.de/about/people), where I manage the IT infrastructure and provide technical support to researchers and staff. This role involves setting up and maintaining PC pools, managing user accounts, and ensuring the smooth operation of IT systems. I also provide support for various software applications used in research and education, helping to resolve technical issues and improve the overall user experience.
+
 ## May 2021 – July 2022
 ### Scooper Pair, YouTube
 Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala State Eligibility Test (SET) Physics problems are discussed. 
