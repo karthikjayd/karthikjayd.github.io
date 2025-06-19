@@ -19,6 +19,8 @@ The degree program is a combination of three degrees:
 
 ## M.Sc. in Physics, Albert-Ludwigs Universität Freiburg (2021 - Present)
 
+**FAQ:** *Why did I choose to pursue another master's degree in Physics after completing an M.Sc.Ed. in Physics?*
+
 During my M.Sc.Ed. program, I had felt at several points the strong need to understand modern physics research and its applications at a deeper level. The [curriculum at RIE Mysore](https://drive.proton.me/urls/GM5V9RQQ3G#ENDsGft5Pnja), while giving me the practical experience in teaching, did not provide the depth of knowledge I sought in modern physics. Additionally, the courses did not provide any potential to explore research methodologies or engage in hands-on research projects, directly in the curriculum. While the varied number of courses in the curriculum provided a broad understanding of various disciplines of Science and Science Education, this breadth came at the cost of depth in any one area. These limitations led me to seek further education in Physics, which I found at Albert-Ludwigs Universität Freiburg.
 
 At Freiburg, I have been able to delve deeper into modern physics topics, particularly in Computational Physics and Quantum Information Theory. I attended the following courses as part of my M.Sc. program:
