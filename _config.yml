@@ -2,10 +2,12 @@
 theme: minima
 
 # Site settings
-title: Karthik Jayadevan
+title: Karthik's Profile
 description: 
 url: "https://karthikjayd.github.io"
 baseurl: ""        # leave empty on user sites
+author:
+  name: Karthik Jayadevan
 
 # Your GitHub repo user name (for the “Fork me on GitHub” link, if minima supports it)
 github: karthikjayd
