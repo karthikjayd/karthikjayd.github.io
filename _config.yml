@@ -9,3 +9,8 @@ baseurl: ""        # leave empty on user sites
 
 # Your GitHub repo user name (for the “Fork me on GitHub” link, if minima supports it)
 github: karthikjayd
+
+header_pages:
+  - index.md
+  - about.md
+  - research.md
