@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and Organizational Experience
+title: Teaching
 permalink: /teach/
 ---
 Below is an overview of my roles in content creation, tutoring, teaching, and coordination.
