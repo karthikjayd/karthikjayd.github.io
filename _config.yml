@@ -1,16 +1,20 @@
-# Main Configuration
-theme: jekyll-theme-chirpy
+# ─────────────────────────────────────────────────────────────────────────────
+# SITE SETTINGS
+# ─────────────────────────────────────────────────────────────────────────────
+remote_theme: cotes2020/jekyll-theme-chirpy
+plugins:
+  - jekyll-remote-theme
 
 lang: en
 timezone: Europe/Berlin
 
 title: Karthik Jayadevan
 tagline: Physics graduate
-
 description: >-
   I'm passionate about physics, mathematics, didactics, and technology.
 
 url: "https://profile.karthikjayd.com"
+baseurl: ""
 
 github:
   username: karthikjayd
@@ -21,10 +25,10 @@ social:
   links:
     - https://github.com/karthikjayd
 
-theme_mode: light
-
-cdn: "https://chirpy-img.netlify.app"
 avatar: "/commons/avatar.jpg"
+cdn: "https://chirpy-img.netlify.app"
+
+theme_mode: light
 
 pwa:
   enabled: true
@@ -32,8 +36,10 @@ pwa:
     enabled: true
 
 paginate: 10
-baseurl: ""
 
+# ─────────────────────────────────────────────────────────────────────────────
+# COLLECTIONS & DEFAULTS
+# ─────────────────────────────────────────────────────────────────────────────
 collections:
   tabs:
     output: true
@@ -55,9 +61,9 @@ defaults:
       layout: page
       permalink: /:title/
 
-sass:
-  style: compressed
-
+# ─────────────────────────────────────────────────────────────────────────────
+# OPTIONAL: exclude anything you really don’t want published
+# ─────────────────────────────────────────────────────────────────────────────
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -69,6 +75,9 @@ exclude:
   - "*.config.js"
   - "package*.json"
 
+# ─────────────────────────────────────────────────────────────────────────────
+# OPTIONAL: archives plugin (tags/categories pages)
+# ─────────────────────────────────────────────────────────────────────────────
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
