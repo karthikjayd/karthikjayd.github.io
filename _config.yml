@@ -3,7 +3,7 @@ theme: minima
 
 # Site settings
 title: Karthik Jayadevan
-description: A minimal profile site
+description: 
 url: "https://karthikjayd.github.io"
 baseurl: ""        # leave empty on user sites
 
