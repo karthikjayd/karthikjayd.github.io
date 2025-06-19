@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Profile Picture](dp-2021_edited.avif){ width=200px style="border-radius: 50%;" }
+![Profile Picture](assets/images/dp-2021_edited.avif)
 # Welcome!
 
 I am an M.Sc. Physics student at Albert-Ludwigs Universität Freiburg, currently delving into the fascinating world of Quantum Computing for my master thesis at Fraunhofer IAF. Here I work on Classical and Quantum Algorithms to solve Combinatorial Optimization Problems like MaxCut and Max3SAT.
