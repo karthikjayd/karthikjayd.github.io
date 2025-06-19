@@ -11,3 +11,4 @@ I am an M.Sc. Physics student at Albert-Ludwigs Universität Freiburg, currently
 Click on the links below to learn more about me:
 - [About Me](/about/)
 - [Research Interests](/research/)
+- [Teaching](/teach/)
