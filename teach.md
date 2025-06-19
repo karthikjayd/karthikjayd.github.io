@@ -89,7 +89,7 @@ Participated in the E-teaching training camp for Arts & Science teachers at Tara
 ---
 
 ## February 15-19, 2017
-### Chief Co-ordinator, Swatantra
+### Chief Co-ordinator, Swatantra {#swatantra}
 Co-ordinated the first inter-college technological convention _“Swatantra”_ at RIEM, a five-day techno-cultural event. Starting with a small team of 10 members, the event grew to include over 200 participants across different events, including workshops, competitions, and exhibitions. The event aimed to promote technological innovation and creativity among student-teachers and was a significant success, fostering a spirit of collaboration and learning within the educational community.
 
 Starting from the conception of the idea, I (along with the other co-ordinator, Navya Jose) facilitated all aspects of the event, including planning, organizing the committee-heads, and managing the logistics. I led the promotion of the event through social media and other channels, which helped to attract a diverse group of participants. This event marked the first time RIEM hosted a techno-cultural convention, and also an event that was fully organized by the student body, setting a precedent for future events at the institute. I also played a key role in raising funds for the event through sponsorships and donations, expanding the budget to over ₹1,00,000 (approximately €1,000) to support the various activities and initiatives during the event.
@@ -104,6 +104,6 @@ This event was a significant milestone in my organizational experience, showcasi
 
 ## 2015–2016 & 2016–2017
 ### President, SWAT Club, RIEM
-Co-ordinated ICT Club activities at Regional Institute of Education Mysore, including planning and running an ICT convention. See the section on Swatantra for more details on the convention.
+Co-ordinated ICT Club activities at Regional Institute of Education Mysore, including planning and running an ICT convention. See the [section on Swatantra](#swatantra) for more details on the convention.
 [Facebook Page](https://www.facebook.com/swatriemblog)
 [Blog](https://swatclubriem.blogspot.com/)
