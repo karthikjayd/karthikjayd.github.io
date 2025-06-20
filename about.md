@@ -17,6 +17,8 @@ The degree program is a combination of three degrees:
 - B.Ed. in Physics and Mathematics
 - M.Sc. in Physics
 
+This degree program provided me the platform to explore various aspects of Physics and Science Education, and additionally allowed me to gain practical experience in leadership and management through various roles in the student council and other extracurricular activities. A key highlight of my time at RIE Mysore was the coordination of a five-day inter-college technological convention called [Swatantra](/teach.md/#swatantra), which I organized from the inception to the execution. This experience honed my skills in event management, teamwork, and leadership, and taught me the importance of effective communication and collaboration in achieving common goals.
+
 ## M.Sc. in Physics, Albert-Ludwigs Universität Freiburg (2021 - Present)
 
 **FAQ:** *Why did I choose to pursue another master's degree in Physics after completing an M.Sc.Ed. in Physics?*
