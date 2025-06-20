@@ -13,7 +13,7 @@ I work as a part-time IT support staff at the [Bernstein Center Freiburg](https:
 ---
 
 ## May 2021 – July 2022
-### Scooper Pair, YouTube
+### Scooper Pair, YouTube {#scooper-pair}
 Owner and content creator for the YouTube channel [_Scooper Pair_](http://www.youtube.com/c/ScooperPair), where Kerala State Eligibility Test (SET) Physics problems are discussed. 
 
 - Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over **2,300 subscribers**, with 65 videos, passing the threshold for YouTube monetization. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. 
@@ -22,7 +22,7 @@ Owner and content creator for the YouTube channel [_Scooper Pair_](http://www.yo
 
 - The channel also featured discussions on important concepts in physics, helping students build a strong foundation in the subject. We also occasionally released [Shorts](https://www.youtube.com/shorts/tQpAdWGvjTw) (short videos) which served as quick revision tools for students, covering important concepts and problem-solving techniques in a concise format.
 
-- Scooper Pair had an official community on Telegram with over 300 members, where students could discuss problems, share resources, and seek help from each other. Currently the channel is inactive, but the content remains available for students to access and learn from, with the channel crossing 100,000 views.
+- Scooper Pair had an official community on [Telegram](https://t.me/ScooperPair) with over 300 members, where students could discuss problems, share resources, and seek help from each other. Currently the channel is inactive, but the content remains available for students to access and learn from, with the channel crossing 100,000 views.
 
 - To help students prepare for the exams, we also released [mini-tests](https://drive.proton.me/urls/745HFEPWRR#QcIwV48VDJPO) in the same format as the original exam, where over 50 students participated for a live online test. These tests were designed to simulate the exam experience, helping students practice under timed conditions and improve their problem-solving skills. The platform [SpeedExam](https://www.speedexam.net/) was used to conduct these tests, which allowed to get specific analytics on the results and ranking of the participants.
 
