@@ -44,8 +44,14 @@ I conducted online physics classes for class XII students on the topic "Magnetic
 
 ## July 2018 – August 2018
 ### Teacher (Intern), JNV Bangalore
-Completion of a 40-day internship as a teacher (secondary school science and mathematics). Developed and implemented 20 lessons each in Science and Mathematics, covering the basics of Algebra and Geometry (mathematics), along with the chapters on Motion, Time and Electricity (Science). In addition, I organized extracurricular activities, including a sky observation session, which provided students with hands-on experience in observing celestial objects and understanding their motion. The internship concluded with an assessment of student learning through a test, which helped evaluate the effectiveness of the teaching methods used during the internship.
+Completion of a 40-day internship as a teacher (secondary school science and mathematics) at Jawahar Navodaya Vidyalaya (JNV) Bangalore Urban, Karnataka, India. Developed and implemented 20 lessons each in Science and Mathematics, covering the basics of Algebra and Geometry (mathematics), along with the chapters on Motion, Time and Electricity (Science). In addition, I organized extracurricular activities, including a sky observation session, which provided students with hands-on experience in observing celestial objects and understanding their motion. The internship concluded with an assessment of student learning through a test, which helped evaluate the effectiveness of the teaching methods used during the internship.
 <!-- [Certificate](<link-to-certificate>) -->
+<!-- add image -->
+<p align="center">
+    <img src="{{ site.baseurl }}/assets/images/JNV.png" alt="Image: Karthik at JNV Bangalore" style="width:600px;">
+    <!-- add caption to image -->
+    <br><em>Demonstrating how human body is a conductor of electricity, by passing a feeble electric current through my body, using the Science kit <a href="https://www.expeyes.in/">Expeyes</a> during my internship at JNV Bangalore.</em>
+</p>
 
 ---
 
