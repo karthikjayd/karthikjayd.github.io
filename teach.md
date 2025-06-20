@@ -10,9 +10,11 @@ Below is an overview of my roles in content creation, tutoring, teaching, and co
 ### IT Support (part-time), Bernstein Center Freiburg
 I work as a part-time IT support staff at the [Bernstein Center Freiburg](https://bcf.uni-freiburg.de/about/people), where I manage the IT infrastructure and provide technical support to researchers and staff. This role involves setting up and maintaining PC pools, managing user accounts, and ensuring the smooth operation of IT systems. I also provide support for various software applications used in research and education, helping to resolve technical issues and improve the overall user experience.
 
+---
+
 ## May 2021 – July 2022
 ### Scooper Pair, YouTube
-Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala State Eligibility Test (SET) Physics problems are discussed. 
+Owner and content creator for the YouTube channel [_Scooper Pair_](http://www.youtube.com/c/ScooperPair), where Kerala State Eligibility Test (SET) Physics problems are discussed. 
 
 - Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over **2,300 subscribers**, with 65 videos, passing the threshold for YouTube monetization. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. 
 
