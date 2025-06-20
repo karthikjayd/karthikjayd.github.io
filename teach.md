@@ -31,6 +31,7 @@ I managed the channel, including organizing content, coordinating with other edu
 <p align="center">
     <img src="{{ site.baseurl }}/assets/images/SP_banner.jpg" alt="Image: Scooper Pair YouTube Channel" style="width:600px;">
     <br><em>Image: Scooper Pair YouTube Channel</em>
+</p>
 
 ---
 
