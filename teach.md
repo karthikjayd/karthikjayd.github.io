@@ -17,6 +17,7 @@ Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala S
 Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over 2,000 subscribers, with 65 videos. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. The content was designed to be accessible and helpful for students preparing for the exam, with a focus on clarity and understanding of complex concepts.
 
 I managed the channel, including organizing content, coordinating with other educators, and creating educational videos. I handled all the post-production work, including video editing (using [Kdenlive](https://kdenlive.org/)), thumbnail design (using [Inkscape](https://inkscape.org/)), and channel management.
+
 [Visit Channel](http://www.youtube.com/c/ScooperPair)
 
 ---
@@ -24,6 +25,7 @@ I managed the channel, including organizing content, coordinating with other edu
 ## October 2020 – October 2022
 ### Subject Expert, Chegg India
 Worked as a part-time subject expert in Physics on the online platform [Chegg](https://www.chegg.com). Developed and published pedagogically sound solutions for over 100 physics problems in the upper grades, complemented with detailed explanations and diagrams created using [Inkscape](https://inkscape.org/). This role involved creating high-quality educational content that adhered to Chegg's standards for clarity and accuracy, helping students understand complex physics concepts.
+
 [Chegg Homepage](https://www.chegg.com)
 
 ---
@@ -65,6 +67,7 @@ This role involved teaching mathematics to students in the Foundations in Scienc
 ## 2018
 ### Online Educator, Unacademy
 Published an online course on _“Work & Energy”_ (Physics) for secondary school students. This course served as a first introduction to the concepts of work and energy, following an intuitive approach to understanding these fundamental physics concepts. The syllabus was aligned with the NCERT curriculum for Class VIII, and the course was designed to be accessible to absolute beginners to these concepts.
+
 [Course Page](https://unacademy.com/course/cbse-class-11-work-and-energy/PL92KWO2)
 
 ---
@@ -73,6 +76,7 @@ Published an online course on _“Work & Energy”_ (Physics) for secondary scho
 ### President, Hi-Φ Science Club
 Co-ordinated the Science Club activities at Regional Institute of Education Mysore during the academic year 2017–18.
 Organized various tutorials and workshops on topics such as _“Introduction to GeoGebra”_, _"Powerful usage of the scientific calculator"_ and collaborated events with the SWAT Club and Astronomy Clubs of the institute.
+
 [Club Posters](https://drive.proton.me/urls/QDH5CQW3EW#uBo98tGfOwd5)
 
 ---
@@ -108,5 +112,6 @@ This event was a significant milestone in my organizational experience, showcasi
 ## 2015–2016 & 2016–2017
 ### President, SWAT Club, RIEM
 Co-ordinated ICT Club activities at Regional Institute of Education Mysore, including planning and running an ICT convention. See the [section on Swatantra](#swatantra) for more details on the convention.
+
 [Facebook Page](https://www.facebook.com/swatriemblog)
 [Blog](https://swatclubriem.blogspot.com/)
