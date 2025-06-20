@@ -14,7 +14,11 @@ I work as a part-time IT support staff at the [Bernstein Center Freiburg](https:
 ### Scooper Pair, YouTube
 Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala State Eligibility Test (SET) Physics problems are discussed. 
 
-Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over 2,000 subscribers, with 65 videos. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. The content was designed to be accessible and helpful for students preparing for the exam, with a focus on clarity and understanding of complex concepts.
+Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over 2,300 subscribers, with 65 videos, passing the threshold for YouTube monetization. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. 
+
+Our team of five educators started by analyzing the syllabus and question papers of the previous ten years, identifying key topics and frequently asked questions. We then created a structured plan to cover these topics through video tutorials, ensuring that students had access to high-quality educational content. The channel also featured discussions on important concepts in physics, helping students build a strong foundation in the subject. We also occasionally released [Shorts](https://www.youtube.com/shorts/tQpAdWGvjTw) (short videos) which served as quick revision tools for students, covering important concepts and problem-solving techniques in a concise format.
+
+We also had an official community on Telegram with over 300 members, where students could discuss problems, share resources, and seek help from each other. Currently the channel is inactive, but the content remains available for students to access and learn from, with the channel crossing 100,000 views.
 
 I managed the channel, including organizing content, coordinating with other educators, and creating educational videos. I handled all the post-production work, including video editing (using [Kdenlive](https://kdenlive.org/)), thumbnail design (using [Inkscape](https://inkscape.org/)), and channel management.
 
@@ -50,7 +54,7 @@ Completion of a 40-day internship as a teacher (secondary school science and mat
 <p align="center">
     <img src="{{ site.baseurl }}/assets/images/JNV.png" alt="Image: Karthik at JNV Bangalore" style="width:600px;">
     <!-- add caption to image -->
-    <br><em>Demonstrating how human body is a conductor of electricity, by passing a feeble electric current through my body, using the Science kit <a href="https://www.expeyes.in/">Expeyes</a> during my internship at JNV Bangalore.</em>
+    <br><em>Demonstrating how human body is a conductor of electricity, by passing a feeble electric current through my body, using the Python-based Science kit <a href="https://www.expeyes.in/">Expeyes</a> during my internship at JNV Bangalore.</em>
 </p>
 
 ---
