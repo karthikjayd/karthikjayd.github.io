@@ -25,6 +25,9 @@ This program allowed me to explore Physics and Science Education while gaining p
 
 During my M.Sc.Ed. program, I often felt the need to delve deeper into modern physics research and its applications. The [curriculum at RIE Mysore](https://drive.proton.me/urls/GM5V9RQQ3G#ENDsGft5Pnja), provided practical teaching experience but lacked the depth I sought in modern physics. The degree is highly regarded in India for Science Education, with 80 courses in the curriculum and a strong emphasis on teaching methodologies. This breadth of courses, however, came at the cost of depth in any one area. These limitations led me to seek further education in Physics, which I found at Albert-Ludwigs Universität Freiburg.
 
+<!-- Add image -->
+<img src="assets/images/kj-uni-freiburg.heic" alt="Karthik at University of Freiburg" style="width:300px;">
+
 At Freiburg, I have been able to delve deeper into modern physics topics, particularly in Computational Physics and Quantum Information Theory. I attended the following courses as part of my M.Sc. program:
 1. Advanced Quantum Mechanics
 2. Advanced Atomic and Molecular Physics
