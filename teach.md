@@ -69,6 +69,7 @@ Worked as a part time Physics teacher for class XI and XII students at Feathers 
 Worked as a part-time math teacher in the Science and Technology Foundation (Classes VIII to X) at BASE Educational Services.
 This role involved teaching mathematics to students in the Foundations in Science and Technology (FSnT) program, which is designed to provide a strong foundation in critical thinking and problem-solving skills through a hands-on, inquiry-based approach. In this role, I tried multiple innovative teaching methods, including interactive problem-solving sessions, group discussions and ICT-based instruction using GeoGebra, which proved to be highly effective in engaging students and enhancing their understanding of mathematical concepts.
 <!-- [Certificate](<link-to-certificate>) -->
+
 ---
 
 ## July – August 2018
@@ -134,7 +135,7 @@ This event was a significant milestone in my organizational experience, showcasi
 Co-ordinated ICT Club activities at Regional Institute of Education Mysore, including planning and running an ICT convention. See the [section on Swatantra](#swatantra) for more details on the convention.
 
 - As part of the club activities, I organized workshops on LaTeX, Office tools and vector graphic programs (Inkscape, GIMP).
-- I organized a team of volunteers who assisted in setting up the PC pools at the institute, including installing Ubuntu on the machines.
+- Supported by a team of volunteers, I organized setting up the PC pools at the institute, including installing Ubuntu on the machines.
 - I also organized a workshop on _“Introduction to Python Programming”_ for the club members, which provided an overview of Python programming and its applications in various fields. The workshop was well-received, and many participants expressed interest in learning more about Python programming.
 - A talk on "Save the Internet" which discussed net neutrality and its implications for internet freedom and access to information, had a huge impact on the community at the institute. This talk was organized when Facebook rolled out [the *Free Basics* program in India](https://www.theguardian.com/world/2016/jan/15/india-net-neutrality-activists-facebook-free-basics), which was later banned by the Telecom Regulatory Authority of India (TRAI) due to concerns about net neutrality and the potential for discrimination against certain websites and services.
 
