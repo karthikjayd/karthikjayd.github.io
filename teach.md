@@ -57,7 +57,21 @@ I conducted online physics classes for class XII students on the topic "Magnetic
 
 ---
 
-## July 2018 – August 2018
+## July 2019 – March 2020
+### Part-time Faculty, Feathers Study Center
+Worked as a part time Physics teacher for class XI and XII students at Feathers Study Center Mysore. In this role, I taught Kinematics, Fundamentals of Fluid Dynamics and Nuclear Physics to students preparing for the JEE and NEET exams. Due to the smaller class size, I was able to provide personalized attention to each student, helping them grasp complex concepts and improve their problem-solving skills. The role also gave me the opportunity to develop evaluation materials and conduct assessments to gauge student understanding and progress. Additionally, I also got the ooportunity to teach in affiliated schools, where I taught Physics to students in classes XI and XII, further enhancing my teaching skills and experience in a professional educational setting.
+<!-- [Certificate](<link-to-certificate>) -->
+
+---
+
+## April 2018 – April 2019
+### Part-time Teacher, BASE Educational Services
+Worked as a part-time math teacher in the Science and Technology Foundation (Classes VIII to X) at BASE Educational Services.
+This role involved teaching mathematics to students in the Foundations in Science and Technology (FSnT) program, which is designed to provide a strong foundation in critical thinking and problem-solving skills through a hands-on, inquiry-based approach. In this role, I tried multiple innovative teaching methods, including interactive problem-solving sessions, group discussions and ICT-based instruction using GeoGebra, which proved to be highly effective in engaging students and enhancing their understanding of mathematical concepts.
+<!-- [Certificate](<link-to-certificate>) -->
+---
+
+## July – August 2018
 ### Teacher (Intern), JNV Bangalore
 Completion of a 40-day internship as a teacher (secondary school science and mathematics) at Jawahar Navodaya Vidyalaya (JNV) Bangalore Urban, Karnataka, India. Developed and implemented 20 lessons each in Science and Mathematics, covering the basics of Algebra and Geometry (mathematics), along with the chapters on Motion, Time and Electricity (Science). In addition, I organized extracurricular activities, including a sky observation session, which provided students with hands-on experience in observing celestial objects and understanding their motion. The internship concluded with an assessment of student learning through a test, which helped evaluate the effectiveness of the teaching methods used during the internship.
 <!-- [Certificate](<link-to-certificate>) -->
@@ -70,22 +84,7 @@ Completion of a 40-day internship as a teacher (secondary school science and mat
 
 ---
 
-## July 2019 – March 2020
-### Part-time Faculty, Feathers Study Center
-Worked as a part time Physics teacher for class XI and XII students at Feathers Study Center Mysore. In this role, I taught Kinematics, Fundamentals of Fluid Dynamics and Nuclear Physics to students preparing for the JEE and NEET exams. Due to the smaller class size, I was able to provide personalized attention to each student, helping them grasp complex concepts and improve their problem-solving skills. The role also gave me the opportunity to develop evaluation materials and conduct assessments to gauge student understanding and progress. Additionally, I also got the ooportunity to teach in affiliated schools, where I taught Physics to students in classes XI and XII, further enhancing my teaching skills and experience in a professional educational setting.
-<!-- [Certificate](<link-to-certificate>) -->
-
----
-
-## 2018 – 2019
-### Part-time Teacher, BASE Educational Services
-Worked as a part-time math teacher in the Science and Technology Foundation (Classes VIII to X) at BASE Educational Services.
-This role involved teaching mathematics to students in the Foundations in Science and Technology (FSnT) program, which is designed to provide a strong foundation in critical thinking and problem-solving skills through a hands-on, inquiry-based approach. In this role, I tried multiple innovative teaching methods, including interactive problem-solving sessions, group discussions and ICT-based instruction using GeoGebra, which proved to be highly effective in engaging students and enhancing their understanding of mathematical concepts.
-<!-- [Certificate](<link-to-certificate>) -->
-
----
-
-## 2018
+## December 2018
 ### Online Educator, Unacademy
 Published an online course on _“Work & Energy”_ (Physics) for secondary school students. This course served as a first introduction to the concepts of work and energy, following an intuitive approach to understanding these fundamental physics concepts. The syllabus was aligned with the NCERT curriculum for Class VIII, and the course was designed to be accessible to absolute beginners to these concepts.
 
@@ -93,7 +92,7 @@ Published an online course on _“Work & Energy”_ (Physics) for secondary scho
 
 ---
 
-## 2017–2018
+## July 2017 – May 2018
 ### President, Hi-Φ Science Club
 Co-ordinated the Science Club activities at Regional Institute of Education Mysore during the academic year 2017–18.
 Organized various tutorials and workshops on topics such as _“Introduction to GeoGebra”_, _"Powerful usage of the scientific calculator"_ and collaborated events with the SWAT Club and Astronomy Clubs of the institute.
@@ -133,6 +132,11 @@ This event was a significant milestone in my organizational experience, showcasi
 ## 2015–2016 & 2016–2017
 ### President, SWAT Club, RIEM
 Co-ordinated ICT Club activities at Regional Institute of Education Mysore, including planning and running an ICT convention. See the [section on Swatantra](#swatantra) for more details on the convention.
+
+- As part of the club activities, I organized workshops on LaTeX, Office tools and vector graphic programs (Inkscape, GIMP).
+- I organized a team of volunteers who assisted in setting up the PC pools at the institute, including installing Ubuntu on the machines.
+- I also organized a workshop on _“Introduction to Python Programming”_ for the club members, which provided an overview of Python programming and its applications in various fields. The workshop was well-received, and many participants expressed interest in learning more about Python programming.
+- A talk on "Save the Internet" which discussed net neutrality and its implications for internet freedom and access to information, had a huge impact on the community at the institute. This talk was organized when Facebook rolled out [the *Free Basics* program in India](https://www.theguardian.com/world/2016/jan/15/india-net-neutrality-activists-facebook-free-basics), which was later banned by the Telecom Regulatory Authority of India (TRAI) due to concerns about net neutrality and the potential for discrimination against certain websites and services.
 
 [Facebook Page](https://www.facebook.com/swatriemblog)
 [Blog](https://swatclubriem.blogspot.com/)
