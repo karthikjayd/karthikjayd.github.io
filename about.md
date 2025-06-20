@@ -4,26 +4,26 @@ title: About
 permalink: /about/
 ---
 
-I am an M.Sc. Physics student at Albert-Ludwigs Universität Freiburg, currently finishing my master thesis at Fraunhofer IAF. My academic journey has been enriched by a diverse set of experiences that have shaped my approach to research and education.
+I am an M.Sc. Physics student at Albert-Ludwigs Universität Freiburg, completing my master thesis at Fraunhofer Institut für Angewandte Festkörperphysik (IAF). 
 ​
 # Education {#education}
 
-## Integrated M.Sc.Ed. in Physics, Regional Institute of Education Mysore (2015 - 2021)
+## Integrated M.Sc.Ed. in Physics, Regional Institute of Education Mysore (2015 - 2021) {#msc-ed}
 
-Starting my academic career with an M.Sc.Ed. degree from the Regional Institute of Education Mysore, I gained rich experience in teaching Physics and Mathematics at the high school level. This background has provided me with a solid foundation in educational methodologies and a deep understanding of how to effectively communicate complex concepts to a broader audience. Teaching is one of my greatest passions. I enjoy conveying complex concepts in an engaging and accessible manner. I believe that innovative learning assessment techniques are important in helping learners understand concepts at a deeper level.
+I began my academic journey with an M.Sc.Ed. degree from the Regional Institute of Education Mysore, gaining valuable experience in teaching Physics and Mathematics at the high school level. This background has provided me with a solid foundation in educational methodologies and a deep understanding of how to effectively communicate complex concepts to a broader audience. Teaching is one of my greatest passions. I enjoy conveying complex concepts in an engaging and accessible manner. I believe that innovative learning assessment techniques are important in helping learners understand concepts at a deeper level.
 
 The degree program is a combination of three degrees:
 - B.Sc. in Physics, Chemistry and Mathematics (PCM)
 - B.Ed. in Physics and Mathematics
 - M.Sc. in Physics
 
-This degree program provided me the platform to explore various aspects of Physics and Science Education, and additionally allowed me to gain practical experience in leadership and management through various roles in the student council and other extracurricular activities. A key highlight of my time at RIE Mysore was the coordination of a five-day inter-college technological convention called [Swatantra](/teach.md/#swatantra), which I organized from the inception to the execution. This experience honed my skills in event management, teamwork, and leadership, and taught me the importance of effective communication and collaboration in achieving common goals.
+This program allowed me to explore Physics and Science Education while gaining practical experience in leadership and management through roles in the student council and extracurricular activities. A key highlight of my time at RIE Mysore was the coordination of a five-day inter-college technological convention called [Swatantra](/teach.md/#swatantra), which I organized from the inception to the execution. This experience honed my skills in event management, teamwork, and leadership, and taught me the importance of effective communication and collaboration in achieving common goals.
 
-## M.Sc. in Physics, Albert-Ludwigs Universität Freiburg (2021 - Present)
+## M.Sc. in Physics, Albert-Ludwigs Universität Freiburg (2021 - Present) {#msc-physics}
 
 **FAQ:** *Why did I choose to pursue another master's degree in Physics after completing an M.Sc.Ed. in Physics?*
 
-During my M.Sc.Ed. program, I had felt at several points the strong need to understand modern physics research and its applications at a deeper level. The [curriculum at RIE Mysore](https://drive.proton.me/urls/GM5V9RQQ3G#ENDsGft5Pnja), while giving me the practical experience in teaching, did not provide the depth of knowledge I sought in modern physics. Additionally, the courses did not provide any potential to explore research methodologies or engage in hands-on research projects, directly in the curriculum. While the varied number of courses in the curriculum provided a broad understanding of various disciplines of Science and Science Education, this breadth came at the cost of depth in any one area. These limitations led me to seek further education in Physics, which I found at Albert-Ludwigs Universität Freiburg.
+During my M.Sc.Ed. program, I often felt the need to delve deeper into modern physics research and its applications. The [curriculum at RIE Mysore](https://drive.proton.me/urls/GM5V9RQQ3G#ENDsGft5Pnja), provided practical teaching experience but lacked the depth I sought in modern physics. The degree is highly regarded in India for Science Education, with 80 courses in the curriculum and a strong emphasis on teaching methodologies. This breadth of courses, however, came at the cost of depth in any one area. These limitations led me to seek further education in Physics, which I found at Albert-Ludwigs Universität Freiburg.
 
 At Freiburg, I have been able to delve deeper into modern physics topics, particularly in Computational Physics and Quantum Information Theory. I attended the following courses as part of my M.Sc. program:
 1. Advanced Quantum Mechanics
