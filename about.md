@@ -19,6 +19,11 @@ The degree program is a combination of three degrees:
 
 This program allowed me to explore Physics and Science Education while gaining practical experience in leadership and management through roles in the student council and extracurricular activities. A key highlight of my time at RIE Mysore was the coordination of a five-day inter-college technological convention called [Swatantra](/teach.md/#swatantra), which I organized from the inception to the execution. This experience honed my skills in event management, teamwork, and leadership, and taught me the importance of effective communication and collaboration in achieving common goals.
 
+<p align="center">
+    <img src="{{ site.baseurl }}/assets/images/DMS.png" alt="Image: Karthik at DMS, RIE Mysore" style="width:600px;">
+    <br><em>Image: “I will work it out on the board!” — An enthusiastic student jumps out of his seat in response to a question I posed. Photo taken during a teaching practice at the Demonstration Multipurpose School (DMS) Mysore, India. </em>
+</p>
+
 ## M.Sc. in Physics, Albert-Ludwigs Universität Freiburg (2021 - Present) {#msc-physics}
 
 **FAQ:** *Why did I choose to pursue another master's degree in Physics after completing an M.Sc.Ed. in Physics?*
