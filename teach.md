@@ -14,15 +14,23 @@ I work as a part-time IT support staff at the [Bernstein Center Freiburg](https:
 ### Scooper Pair, YouTube
 Owner and content creator for the YouTube channel _Scooper Pair_, where Kerala State Eligibility Test (SET) Physics problems are discussed. 
 
-Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over 2,300 subscribers, with 65 videos, passing the threshold for YouTube monetization. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. 
+- Started as a project during the COVID-19 pandemic to help students prepare for the Kerala SET exam, the channel grew to over **2,300 subscribers**, with 65 videos, passing the threshold for YouTube monetization. The channel focused on solving previous years' SET Physics problems, providing detailed explanations and insights into the subject matter. 
 
-Our team of five educators started by analyzing the syllabus and question papers of the previous ten years, identifying key topics and frequently asked questions. We then created a structured plan to cover these topics through video tutorials, ensuring that students had access to high-quality educational content. The channel also featured discussions on important concepts in physics, helping students build a strong foundation in the subject. We also occasionally released [Shorts](https://www.youtube.com/shorts/tQpAdWGvjTw) (short videos) which served as quick revision tools for students, covering important concepts and problem-solving techniques in a concise format.
+- Our team of five educators started by rigorously analyzing the syllabus and question papers of the previous ten years, identifying key topics and frequently asked questions. We then created a structured plan to cover these topics through video tutorials, ensuring that students had access to high-quality educational content. 
 
-We also had an official community on Telegram with over 300 members, where students could discuss problems, share resources, and seek help from each other. Currently the channel is inactive, but the content remains available for students to access and learn from, with the channel crossing 100,000 views.
+- The channel also featured discussions on important concepts in physics, helping students build a strong foundation in the subject. We also occasionally released [Shorts](https://www.youtube.com/shorts/tQpAdWGvjTw) (short videos) which served as quick revision tools for students, covering important concepts and problem-solving techniques in a concise format.
 
-I managed the channel, including organizing content, coordinating with other educators, and creating educational videos. I handled all the post-production work, including video editing (using [Kdenlive](https://kdenlive.org/)), thumbnail design (using [Inkscape](https://inkscape.org/)), and channel management.
+- Scooper Pair had an official community on Telegram with over 300 members, where students could discuss problems, share resources, and seek help from each other. Currently the channel is inactive, but the content remains available for students to access and learn from, with the channel crossing 100,000 views.
+
+- To help students prepare for the exams, we also released [https://drive.proton.me/urls/745HFEPWRR#QcIwV48VDJPO](mini-tests) in the same format as the original exam, where over 50 students participated for a live online test. These tests were designed to simulate the exam experience, helping students practice under timed conditions and improve their problem-solving skills. The platform [SpeedExam](https://www.speedexam.net/) was used to conduct these tests, which allowed to get specific analytics on the results and ranking of the participants.
+
+I managed the channel, including organizing content, coordinating with other educators, and creating educational videos. I handled all the post-production work, including video editing (using [Kdenlive](https://kdenlive.org/)), thumbnail design (using [Inkscape](https://inkscape.org/)), and channel management in YouTube Studio.
 
 [Visit Channel](http://www.youtube.com/c/ScooperPair)
+
+<p align="center">
+    <img src="{{ site.baseurl }}/assets/images/SP_banner.jpg" alt="Image: Scooper Pair YouTube Channel" style="width:600px;">
+    <br><em>Image: Scooper Pair YouTube Channel</em>
 
 ---
 
