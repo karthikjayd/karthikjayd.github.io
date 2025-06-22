@@ -13,3 +13,5 @@ Site navigation:
 - [My interests](/about/#interests)
 - [Research Experience](/research/)
 - [Teaching Experience](/teach/)
+
+Visit my [LinkedIn](https://www.linkedin.com/in/karthikjayd/) page.
