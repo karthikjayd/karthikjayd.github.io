@@ -3,8 +3,14 @@ layout: page
 title: Teaching
 permalink: /teach/
 ---
-Below is an overview of my roles in content creation, tutoring, teaching, and coordination.
----
+# Teaching and Leadership Roles
+
+> *"To teach is to learn twice over."* -- [Joseph Joubert](https://en.wikiquote.org/wiki/Joseph_Joubert)
+
+Key Highlights from my teaching, leadership and organizational roles:
+1. [Content creation for the Scooper Pair YouTube channel (own)](#scooper-pair)
+2. [Mathematics teaching at BASE Educational Services, India](#teach-base)
+3. [Co-ordination of club events with SWAT Club, RIEM, India](#swat-club)
 
 ## May 2025 – Present
 ### IT Support (part-time), Bernstein Center Freiburg
@@ -65,7 +71,7 @@ Worked as a part time Physics teacher for class XI and XII students at Feathers 
 ---
 
 ## April 2018 – April 2019
-### Part-time Teacher, BASE Educational Services
+### Part-time Teacher, BASE Educational Services {#teach-base}
 Worked as a part-time math teacher in the Science and Technology Foundation (Classes VIII to X) at BASE Educational Services.
 This role involved teaching mathematics to students in the Foundations in Science and Technology (FSnT) program, which is designed to provide a strong foundation in critical thinking and problem-solving skills through a hands-on, inquiry-based approach. In this role, I tried multiple innovative teaching methods, including interactive problem-solving sessions, group discussions and ICT-based instruction using GeoGebra, which proved to be highly effective in engaging students and enhancing their understanding of mathematical concepts.
 <!-- [Certificate](<link-to-certificate>) -->
@@ -137,7 +143,7 @@ This event was a significant milestone in my organizational experience, showcasi
 ---
 
 ## 2015–2016 & 2016–2017
-### President, SWAT Club, RIEM
+### President, SWAT Club, RIEM {#swat-club}
 Co-ordinated ICT Club activities at Regional Institute of Education Mysore, including planning and running an ICT convention. See the [section on Swatantra](#swatantra) for more details on the convention.
 
 - As part of the club activities, I organized workshops on LaTeX, Office tools and vector graphic programs (Inkscape, GIMP).
