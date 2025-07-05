@@ -6,7 +6,15 @@ permalink: /research/
 
 # Research Experience
 
-In the past I have worked on topics such as Computational Physics, Astrophysics and Materials Physics (which also led to a [publication](#publications)). Currently I am working on Quantum Optimization, particularly on Combinatorial Optimization problems and their applications in Quantum Computing. 
+In the past I have worked on topics such as Computational Physics, Astrophysics and Materials Physics (which also led to a [publication](#publications)). 
+
+<!-- Key highlights -->
+## Key Highlights
+1. [Master's thesis work on Quantum Combinatorial Optimization at the Fraunhofer IAF, Freiburg, Germany](#master-thesis)
+2. [Research assistant position on simuation of critical infrastructure networks on Quantum Hardware, Fraunhofer EMI, Freiburg, Germany](#emi-qc)
+3. [Co-authored publication on study of physical parameters of Graphene forms](#publications)
+
+Currently I am working on Quantum Optimization, particularly on Combinatorial Optimization problems and their applications in Quantum Computing.
 
 
 ## May 2024 – August 2025 {#master-thesis}
@@ -17,9 +25,9 @@ During this period, I presented at two conferences:
 1. *Deutsche Physikalische Gesellschaft (DPG) Frühjahrstagung 2025* in Bonn, Germany, where I presented a talk titled [_"Quantum Optimization using Linear Ramp QAOA"_](https://www.dpg-verhandlungen.de/year/2025/conference/bonn/part/qi/session/12/contribution/2) for the Portfolio Optimization problem.
 2. *KQCBW Developer Conference 2025* at Fraunhofer IAF, Freiburg, Germany, where I presented a poster on _"Energy grid optimization as a Linear Ramp QAOA use case"_.
 
-Currently, I am working on a publication that will include some of the results from my thesis, which will be submitted to a peer-reviewed journal in the near future.
+I am further working on a publication that will include some of the results from my thesis, which will be submitted to a peer-reviewed journal in the near future.
 
-## August 2023 – March 2024
+## August 2023 – March 2024 {#emi-qc}
 ### Fraunhofer-Institut für Kurzzeit Dynamik, Ernst-Mach Institut (EMI)
 Worked as a student research assistant (Hilfswissenschaftler or Hiwi) in the Risk Management and Structural Protection Department (_Abteilung Risikomanagement und Baulicher Schutz_). Assisted in developing a demonstrator for quantum-computing approaches to resilience analyses of network structures, under Dr. Christoph Brockt.
 
@@ -37,7 +45,7 @@ Learned basics of Molecular Dynamics simulations using LAMMPS (Large-scale Atomi
 
 
 ## May 2020 – August 2020
-### Summer Project (Astronomy)
+### Summer Project (Astronomy) {#IITB-orbits}
 Developed a pipeline to compute the ephemeris of any heliocentric object given three observations of the object. It involved principles of celestial mechanics and numerical analysis. This project was preceded by tutorials on basic astrophysics covering topics like photometric image reduction, exoplanets, and gravitational waves.
 
 In this project, I learned celestial mechanics and intermediate Python programming. I mastered NumPy, Matplotlib, SciPy, and AstroPy packages and became competent in collaborating via GitHub. Team communication was handled via Slack.
