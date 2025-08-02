@@ -51,6 +51,17 @@ Worked as a part-time subject expert in Physics on the online platform [Chegg](h
 
 ---
 
+## April 2018 - August 2021
+### Co-ordinator, Laboratory Manual Updation Project
+Volunteered to update the laboratory manuals at the Physics department of RIEM, co-ordinating the digitalization of these documents to LaTeX, updating the information and appending with new illustrations using Inkscape. 
+
+**Examples**
+
+[Semester 6 Lab Manuals](https://drive.proton.me/urls/QFSBE91V6W#x68esByoeNCt)
+[Semester 12 Lab Record (with observations recorded during my studies)](https://drive.proton.me/urls/MNNCNB4EAG#w5exw2ay0QAf)
+
+---
+
 ## July 2020
 ### Higher Secondary Teacher (Intern), MNKM HSS
 Completed a three-week teaching internship (online) as part of the M.Sc.Ed. program at MNK Higher Secondary School, Palakkad, Kerala.
