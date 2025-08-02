@@ -42,7 +42,7 @@ At Freiburg, I have been able to delve deeper into modern physics topics, partic
 5. Experimental Astrophysics
 6. Classical Complex Systems
 7. Advanced Laboratory Course in Physics
-8. Term Paper: **Auf welche Wahrheiten können wir bauen? Physik und Theologie im Gespräch** (On which truths can we build? Physics and Theology in conversation) - This paper explored the intersection of physics and theology, discussing the topic of **Scientism** and critiques of it. I gave some anecdotal insights into a case study regarding the significance of Scientific Temper in the current Indian political landscape.
+8. Term Paper: **Auf welche Wahrheiten können wir bauen? Physik und Theologie im Gespräch** (On which truths can we build? Physics and Theology in conversation) - This paper explored the intersection of physics and theology, discussing the topic of **Scientism** and critiques of it. I gave some anecdotal insights into a case study regarding the significance of Scientific Temper in the current Indian political landscape. [Link to Report](https://drive.proton.me/urls/QB5ZFJMG7C#JIfxmKfZuEfd)
 
 # Interests {#interests}
 

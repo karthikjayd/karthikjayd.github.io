@@ -6,7 +6,15 @@ layout: home
 
 # Hello there!
 
-I am an M.Sc. Physics student at Albert-Ludwigs Universität Freiburg, currently finishing my master thesis at Fraunhofer IAF. My interests include Quantum Computing, Computational Physics, and Science Education. I have a background in teaching Physics and Mathematics at the high school level, and I am passionate about making complex concepts accessible to a broader audience.
+> *In a time when misinformation spreads faster than facts, being a physicist feels less like a profession and more like a responsibility.*
+
+I'm currently pursuing an M.Sc. in Physics at Albert-Ludwigs-Universität Freiburg, where I'm wrapping up [my master's thesis at Fraunhofer IAF](/research/#master-thesis). My academic path didn't start in pure Physics — I originally trained in Physics Education. But over time, I realized that, to truly teach science, one must first *do* science. That realization led me back to theory, back to labs and into the heart of the discipline itself.
+
+I guess we all are already tired of hearing *`we live in the Age of Information'*, but it feels increasingly like the age of *misinformation*. In response, I see my role not just as a physicist by training, but in addition, as someone who bears the responsibility to inculcate critical thinking and scientific temper to the next generation.
+
+<!-- 
+
+I am an M.Sc. Physics student at Albert-Ludwigs Universität Freiburg, currently finishing my master thesis at Fraunhofer IAF. My interests include Quantum Computing, Computational Physics, and Science Education. I have a background in teaching Physics and Mathematics at the high school level, and I am passionate about making complex concepts accessible to a broader audience. -->
 
 Site navigation:
 - [Educational background](/about/#education)

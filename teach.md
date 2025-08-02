@@ -65,7 +65,7 @@ Volunteered to update the laboratory manuals at the Physics department of RIEM, 
 ## July 2020
 ### Higher Secondary Teacher (Intern), MNKM HSS
 Completed a three-week teaching internship (online) as part of the M.Sc.Ed. program at MNK Higher Secondary School, Palakkad, Kerala.
-I conducted online physics classes for class XII students on the topic "Magnetic Effect of Electric Current", covering the basics of electromagnetism, including Ampere's law, Biot-Savart law, and applications of electromagnets. The internship posed several challenges due to the online format limited due to the COVID-19 pandemic, but it provided valuable experience in adapting teaching methods to an online environment. I also developed assessment materials to evaluate student understanding and progress.
+I conducted online physics classes for class XII students on the topic "Magnetic Effect of Electric Current", covering the basics of electromagnetism, including Ampere's law, Biot-Savart law, and applications of electromagnets. The internship posed several challenges due to the online format limited due to the COVID-19 pandemic, but it provided valuable experience in adapting teaching methods to an online environment. I also developPned assessment materials to evaluate student understanding and progress.
 
 *An additional activity that I volunteered for during this internship was the design of the internship record document for the M.Sc.Ed. program, which involved creating a structured format for documenting the internship experience, including lesson plans, teaching reflections, and student assessments. This document was later used by other interns in the program, and is still being used at Regional Institute of Education Mysore.*
 
