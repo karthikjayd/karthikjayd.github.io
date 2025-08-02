@@ -10,7 +10,9 @@ layout: home
 
 I'm currently pursuing an M.Sc. in Physics at Albert-Ludwigs-Universität Freiburg, where I'm wrapping up [my master's thesis at Fraunhofer IAF](/research/#master-thesis). My academic path didn't start in pure Physics — I originally trained in Physics Education. But over time, I realized that, to truly teach science, one must first *do* science. That realization led me back to theory, back to labs and into the heart of the discipline itself.
 
-I guess we all are already tired of hearing *`we live in the Age of Information'*, but it feels increasingly like the age of *misinformation*. In response, I see my role not just as a physicist by training, but in addition, as someone who bears the responsibility to inculcate critical thinking and scientific temper to the next generation.
+We're all probably tired of hearing that we live in the *'Age of Information'*, but it feels increasingly like the age of *misinformation*. In response, I see my role not just as a physicist by training, but in addition, as someone who feels responsible for nurturing critical thinking and scientific temper in the next generation.
+
+As I move forward, I hope to continue bridging the gap between research and education — making science not just something to learn, but something to live.
 
 <!-- 
 
