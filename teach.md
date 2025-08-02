@@ -57,8 +57,8 @@ Volunteered to update the laboratory manuals at the Physics department of RIEM, 
 
 **Examples**
 
-[Semester 6 Lab Manuals](https://drive.proton.me/urls/QFSBE91V6W#x68esByoeNCt)
-[Semester 12 Lab Record (with observations recorded during my studies)](https://drive.proton.me/urls/MNNCNB4EAG#w5exw2ay0QAf)
+- [Semester 6 Lab Manuals](https://drive.proton.me/urls/QFSBE91V6W#x68esByoeNCt)
+- [Semester 12 Lab Record (with observations recorded during my studies)](https://drive.proton.me/urls/MNNCNB4EAG#w5exw2ay0QAf)
 
 ---
 
