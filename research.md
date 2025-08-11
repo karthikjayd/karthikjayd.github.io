@@ -19,9 +19,31 @@ Currently I am working on Quantum Optimization, particularly on Combinatorial Op
 
 ## May 2024 – August 2025 {#master-thesis}
 ### Fraunhofer-Institut für Angewandte Festkörperphysik (IAF)
-Pursuing a master thesis on Classical and Quantum algorithms (QAOA) for _Combinatorial Optimization Problems_, under PD Dr. Thomas Wellens and Vanessa Dehn. I am working on the implementation of the [Linear Ramp QAOA](https://arxiv.org/abs/2504.08577) for various combinatorial optimization problems, including the Maximum Cut Problem, Market Split and some specific industrial problems under the [Kompetenzzentrum Quantum Computing Baden-Württemberg (KQCBW)](https://www.iaf.fraunhofer.de/de/forscher/quantensysteme/quantencomputing/KQCBW24.html) project. 
+Completed the master's thesis titled *Classical v/s Quantum Optimization: Comparison of Runtime Scaling*, under PD Dr. Thomas Wellens and Vanessa Dehn. 
 
-During this period, I presented at two conferences:
+#### Abstract
+
+> The study of algorithms for combinatorial optimization has been a central focus of quantum
+computing research in recent years. The primary goal in this field is to develop efficient
+algorithms based on quantum mechanical principles, that can outperform (or more realisti-
+cally, complement) classical algorithms for solving NP-hard problems. Setting up problem
+instances in the Quadratic Unconstrained Binary Optimization (QUBO) model, this thesis
+aims to compare the performance of classical algorithms like cplex, Goemans-Williamson
+and MQLib against two variants of the Linear Ramp Quantum Approximate Optimization
+Algorithm (LR-QAOA) on two combinatorial optimization problems: the Maximum Cut
+Problem (MaxCut) and a new resource allocation problem from the energy provider EnBW
+(which we refer to as the TA problem).
+> The first variant of LR-QAOA, which we refer to as normalized Hamiltonian LR-QAOA,
+sets up instance-agnostic parameters for the algorithm for all problem sizes, while the second
+variant, which we refer to as extrapolation LR-QAOA, determines suitable LR-QAOA pa-
+rameters for each problem instance by heuristically extrapolating from smaller sub-instances.
+> For both the classical and quantum algorithms, we investigate how the runtime of each of
+the algorithms scales with the problem size for both problems, and how the solution quality
+compares across algorithms.
+
+I worked on the implementation of the [Linear Ramp QAOA](https://arxiv.org/abs/2504.08577) for various combinatorial optimization problems, including the Maximum Cut Problem, Market Split and some specific industrial problems under the [Kompetenzzentrum Quantum Computing Baden-Württemberg (KQCBW)](https://www.iaf.fraunhofer.de/de/forscher/quantensysteme/quantencomputing/KQCBW24.html) project. 
+
+During this period, I presented the LR-QAOA method at two conferences:
 1. *Deutsche Physikalische Gesellschaft (DPG) Frühjahrstagung 2025* in Bonn, Germany, where I presented a talk titled [_"Quantum Optimization using Linear Ramp QAOA"_](https://www.dpg-verhandlungen.de/year/2025/conference/bonn/part/qi/session/12/contribution/2) for the Portfolio Optimization problem.
 2. *KQCBW Developer Conference 2025* at Fraunhofer IAF, Freiburg, Germany, where I presented a poster on _"Energy grid optimization as a Linear Ramp QAOA use case"_.
 

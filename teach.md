@@ -76,7 +76,7 @@ I conducted online physics classes for class XII students on the topic "Magnetic
 
 ## July 2019 – March 2020
 ### Part-time Faculty, Feathers Study Center
-Worked as a part time Physics teacher for class XI and XII students at Feathers Study Center Mysore. In this role, I taught Kinematics, Fundamentals of Fluid Dynamics and Nuclear Physics to students preparing for the JEE and NEET exams. Due to the smaller class size, I was able to provide personalized attention to each student, helping them grasp complex concepts and improve their problem-solving skills. The role also gave me the opportunity to develop evaluation materials and conduct assessments to gauge student understanding and progress. Additionally, I also got the ooportunity to teach in affiliated schools, where I taught Physics to students in classes XI and XII, further enhancing my teaching skills and experience in a professional educational setting.
+Worked as a part time Physics teacher for class XI and XII students at Feathers Study Center Mysore. In this role, I taught Kinematics, Fundamentals of Fluid Dynamics and Nuclear Physics to students preparing for the JEE and NEET exams. Due to the smaller class size, I was able to provide personalized attention to each student, helping them grasp complex concepts and improve their problem-solving skills. The role also gave me the opportunity to develop evaluation materials and conduct assessments to gauge student understanding and progress. Additionally, I also got the opportunity to teach in affiliated schools, where I taught Physics to students in classes XI and XII, further enhancing my teaching skills and experience in a professional educational setting.
 <!-- [Certificate](<link-to-certificate>) -->
 
 ---
