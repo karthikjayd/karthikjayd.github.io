@@ -6,7 +6,7 @@ layout: home
 
 # Hello there!
 
-> *In a time when misinformation spreads faster than facts, being a physicist feels less like a profession and more like a responsibility.*
+<!-- > *In a time when misinformation spreads faster than facts, being a physicist feels less like a profession and more like a responsibility.* -->
 
 I’ve just finished my M.Sc. in Physics at Albert-Ludwigs-Universität Freiburg, along with [a master’s thesis at Fraunhofer IAF](/research/#master-thesis). My journey began in Physics Education, but as I moved forward, I found myself wanting a deeper connection to the subject. I came to believe that to truly teach science, you need to experience it as a researcher first. That idea brought me back to the heart of the field.
 
