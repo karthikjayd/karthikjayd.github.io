@@ -8,11 +8,11 @@ layout: home
 
 > *In a time when misinformation spreads faster than facts, being a physicist feels less like a profession and more like a responsibility.*
 
-I'm currently pursuing an M.Sc. in Physics at Albert-Ludwigs-Universität Freiburg, where I'm wrapping up [my master's thesis at Fraunhofer IAF](/research/#master-thesis). My academic path didn't start in pure Physics — I originally trained in Physics Education. But over time, I realized that, to truly teach science, one must first *do* science. That realization led me back to theory, back to labs and into the heart of the discipline itself.
+I’ve just finished my M.Sc. in Physics at Albert-Ludwigs-Universität Freiburg, along with [a master’s thesis at Fraunhofer IAF](/research/#master-thesis). My journey began in Physics Education, but as I moved forward, I found myself wanting a deeper connection to the subject. I came to believe that to truly teach science, you need to experience it as a researcher first. That idea brought me back to the heart of the field.
 
-We're all probably tired of hearing that we live in the *'Age of Information'*, but it feels increasingly like the age of *misinformation*. In response, I see my role not just as a physicist by training, but in addition, as someone who feels responsible for nurturing critical thinking and scientific temper in the next generation.
+We often hear that we’re living in the *“Age of Information,”* but these days it can just as easily feel like the age of *misinformation*. That’s why I see my role not only as a physicist by training, but also as someone who has a responsibility to help foster critical thinking and a scientific mindset in the next generation.
 
-As I move forward, I hope to continue bridging the gap between research and education — making science not just something to learn, but something to live.
+Looking ahead, I hope to keep building bridges between research and education. I hope to contribute towards making science not just something students learn, but something they genuinely experience and live.
 
 <!-- 
 
@@ -24,4 +24,6 @@ Site navigation:
 - [Research Experience](/research/)
 - [Teaching Experience](/teach/)
 
-Visit my [LinkedIn](https://www.linkedin.com/in/karthikjayd/) page.
+Visit my [LinkedIn](https://www.linkedin.com/in/karthikjayd/) page to get a formal overview of my professional journey.
+
+I have recently migrated most of my programming-related projects to a new home on [GitHub](https://github.com/aQuetzalcoatlus). I named the repo "A Quetzalcoatlus" as a small nod to my childhood fascination with dinosaurs.
