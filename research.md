@@ -14,8 +14,6 @@ In the past I have worked on topics such as Computational Physics, Astrophysics 
 2. [Research assistant position on simuation of critical infrastructure networks on Quantum Hardware, Fraunhofer EMI, Freiburg, Germany](#emi-qc)
 3. [Co-authored publication on study of physical parameters of Graphene forms](#publications)
 
-Currently I am working on Quantum Optimization, particularly on Combinatorial Optimization problems and their applications in Quantum Computing.
-
 
 ## May 2024 – August 2025 {#master-thesis}
 ### Fraunhofer-Institut für Angewandte Festkörperphysik (IAF)
@@ -23,23 +21,14 @@ Completed the master's thesis titled *Classical v/s Quantum Optimization: Compar
 
 #### Abstract
 
-> The study of algorithms for combinatorial optimization has been a central focus of quantum
-computing research in recent years. The primary goal in this field is to develop efficient
-algorithms based on quantum mechanical principles, that can outperform (or more realisti-
-cally, complement) classical algorithms for solving NP-hard problems. Setting up problem
-instances in the Quadratic Unconstrained Binary Optimization (QUBO) model, this thesis
-aims to compare the performance of classical algorithms like cplex, Goemans-Williamson
-and MQLib against two variants of the Linear Ramp Quantum Approximate Optimization
-Algorithm (LR-QAOA) on two combinatorial optimization problems: the Maximum Cut
-Problem (MaxCut) and a new resource allocation problem from the energy provider EnBW
+> The study of algorithms for combinatorial optimization has been a central focus of quantum computing research in recent years. The primary goal in this field is to develop efficient algorithms based on quantum mechanical principles, that can outperform (or more realistically, complement) classical algorithms for solving NP-hard problems. Setting up problem instances in the Quadratic Unconstrained Binary Optimization (QUBO) model, this thesis aims to compare the performance of classical algorithms like CPLEX, Goemans-Williamson and MQLib against two variants of the Linear Ramp Quantum Approximate Optimization Algorithm (LR-QAOA) on two combinatorial optimization problems: the Maximum Cut Problem (MaxCut) and a new resource allocation problem from the energy provider EnBW
 (which we refer to as the TA problem).
+
 > The first variant of LR-QAOA, which we refer to as normalized Hamiltonian LR-QAOA,
-sets up instance-agnostic parameters for the algorithm for all problem sizes, while the second
-variant, which we refer to as extrapolation LR-QAOA, determines suitable LR-QAOA pa-
-rameters for each problem instance by heuristically extrapolating from smaller sub-instances.
+sets up instance-agnostic parameters for the algorithm for all problem sizes, while the second variant, which we refer to as extrapolation LR-QAOA, determines suitable LR-QAOA parameters for each problem instance by heuristically extrapolating from smaller sub-instances.
+
 > For both the classical and quantum algorithms, we investigate how the runtime of each of
-the algorithms scales with the problem size for both problems, and how the solution quality
-compares across algorithms.
+the algorithms scales with the problem size for both problems, and how the solution quality compares across algorithms.
 
 I worked on the implementation of the [Linear Ramp QAOA](https://arxiv.org/abs/2504.08577) for various combinatorial optimization problems, including the Maximum Cut Problem, Market Split and some specific industrial problems under the [Kompetenzzentrum Quantum Computing Baden-Württemberg (KQCBW)](https://www.iaf.fraunhofer.de/de/forscher/quantensysteme/quantencomputing/KQCBW24.html) project. 
 
