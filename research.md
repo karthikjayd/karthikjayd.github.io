@@ -19,6 +19,8 @@ In the past I have worked on topics such as Computational Physics, Astrophysics 
 ### Fraunhofer-Institut für Angewandte Festkörperphysik (IAF)
 Completed the master's thesis titled *Classical v/s Quantum Optimization: Comparison of Runtime Scaling*, under PD Dr. Thomas Wellens and Vanessa Dehn. 
 
+[Link to master's thesis full-text](https://github.com/aQuetzalcoatlus/kjayd-mthesis)
+
 #### Abstract
 
 > The study of algorithms for combinatorial optimization has been a central focus of quantum computing research in recent years. The primary goal in this field is to develop efficient algorithms based on quantum mechanical principles, that can outperform (or more realistically, complement) classical algorithms for solving NP-hard problems. Setting up problem instances in the Quadratic Unconstrained Binary Optimization (QUBO) model, this thesis aims to compare the performance of classical algorithms like CPLEX, Goemans-Williamson and MQLib against two variants of the Linear Ramp Quantum Approximate Optimization Algorithm (LR-QAOA) on two combinatorial optimization problems: the Maximum Cut Problem (MaxCut) and a new resource allocation problem from the energy provider EnBW
