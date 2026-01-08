@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an M.Sc. Physics student at Albert-Ludwigs Universität Freiburg, completing my master thesis at Fraunhofer Institut für Angewandte Festkörperphysik (IAF). 
+I am an M.Sc. Physics graduate from Albert-Ludwigs Universität Freiburg, with my master thesis completed at Fraunhofer Institut für Angewandte Festkörperphysik (IAF).  I hold an additional master's degree in Science Education (M.Sc.Ed.), specializing in Physics Education.
 ​
 # Education {#education}
 
