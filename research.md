@@ -74,9 +74,18 @@ _Abstract published in the conference proceedings of NSD 2019._
 
 # Publications {#publications}
 
-## January 2021 – August 2021
-**Topological Data Analysis & Comparison of Physical Parameters of Different Forms of Graphene**  
-_J. Karthik, et al._ “Topological data analysis and Comparison of physical parameters of different forms of Graphene.” _Int. J. of Computational Materials Science and Surface Engineering_.
+## Extrapolation method to optimize linear-ramp quantum approximate optimization algorithm parameters: Evaluation of runtime scaling
+(Article accepted to Physical Review A on 15 January 2026) 
+
+**Co-author in upcoming revised version.** 
+Vanessa Dehn, Martin Zaefferer, Gerhard Hellstern, **Karthik Jayadevan**, Florentin Reiter, and Thomas Wellens (2026). Extrapolation method to optimize linear-ramp quantum approximate optimization algorithm parameters: Evaluation of runtime scaling. 
+
+- DOI: https://doi.org/10.1103/l5r4-zcqv
+
+- *Older version available as arXiv preprint [arXiv:2504.08577](https://arxiv.org/abs/2504.08577)*
+
+## Topological Data Analysis & Comparison of Physical Parameters of Different Forms of Graphene
+Karthik, J., Jose, N., Kumar, M., & Somashekar, R. (2022). Topological data analysis and comparison of physical parameters of different forms of graphene. International Journal of Computational Materials Science and Surface Engineering, 11(2), 73-83
 
 **Abstract:** Different crystallographic forms of graphene were investigated for their physical properties using reported experimental crystal-structure data and molecular-dynamics study. We find interesting changes in the values of certain physical parameters and three-dimensional spatial variations (Young’s, Linear and Shear moduli). The simulated strength of graphene in different forms was compared with experimental values to establish structure–property relations. Topological data analysis was carried out using a two-dimensional plot generated with Platon from CIF files of each graphene form.
 
