@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research Experience
 
-In the past I have worked on topics such as Computational Physics, Astrophysics and Materials Physics (which also led to a [publication](#publications)). 
+During my M.Sc. studies at the University of Freiburg, I took part in Quantum Computing research, focusing on Quantum Algorithms. In the past I have worked on topics such as Computational Physics, Astrophysics and Materials Physics (which also led to a [publication](#publications)). 
 
 <!-- Key highlights -->
 ## Key Highlights
