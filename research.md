@@ -80,7 +80,7 @@ _Abstract published in the conference proceedings of NSD 2019._
 **Co-author in upcoming revised version.** 
 Vanessa Dehn, Martin Zaefferer, Gerhard Hellstern, **Karthik Jayadevan**, Florentin Reiter, and Thomas Wellens (2026). Extrapolation method to optimize linear-ramp quantum approximate optimization algorithm parameters: Evaluation of runtime scaling. 
 
-- DOI: https://doi.org/10.1103/l5r4-zcqv
+- DOI: [https://doi.org/10.1103/l5r4-zcqv](https://doi.org/10.1103/l5r4-zcqv)
 
 - *Older version available as arXiv preprint [arXiv:2504.08577](https://arxiv.org/abs/2504.08577)*
 
